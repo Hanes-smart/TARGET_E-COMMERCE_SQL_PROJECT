@@ -28,8 +28,7 @@ where EXTRACT(year from order_purchase_timestamp) = 2018 and EXTRACT(month from 
 ## 2. In-depth Exploration:
 
 **1. Is there a growing trend in the no. of orders placed over the past years?**
-**2. Can we see some kind of monthly seasonality in terms of the no. of orders being placed?**
-**3. During what time of the day, do the Brazilian customers mostly place their orders? (Dawn, Morning, Afternoon or Night)**
+**2. During what time of the day, do the Brazilian customers mostly place their orders? (Dawn, Morning, Afternoon or Night)**
 - 0-6 hrs : Dawn
 - 7-12 hrs : Mornings
 - 13-18 hrs : Afternoon
@@ -45,8 +44,12 @@ from `business-analysis-using-sql.Target_id.orders`
 group by extract(month from order_purchase_timestamp)
 order by order_num;
 ```
+### 2. Can we see some kind of monthly seasonality in terms of the no. of orders being placed?
 
-### 3. During what time of the day, do the Brazilian customers mostly place their orders? (Dawn, Morning, Afternoon or Night) 
+```sql
+
+```
+### 2. During what time of the day, do the Brazilian customers mostly place their orders? (Dawn, Morning, Afternoon or Night) 
 - 0-6 hrs : Dawn
 - 7-12 hrs : Mornings
 - 13-18 hrs : Afternoon
