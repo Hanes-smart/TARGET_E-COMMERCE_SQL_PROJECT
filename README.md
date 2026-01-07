@@ -4,7 +4,7 @@
 
 ## 1.Import the dataset and do usual exploratory analysis steps like checking the structure & characteristics of the dataset:
 
-** 1.Get the time range between which the orders were placed. **
+** 1.Get the time range between which the orders were placed.
 ** 2.display the Cities & States of customers who ordered during the given period. **
 
 ### 1.Get the time range between which the orders were placed.
