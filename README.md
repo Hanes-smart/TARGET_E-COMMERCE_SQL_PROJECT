@@ -1,4 +1,4 @@
-# TARGET_E-COMMERCE_SQL_PROJECT
+# DATA ANALYSIS ON TAGET E-COMMERCE SQL PROJECT
 
 ![logo](https://github.com/Hanes-smart/TARGET_E-COMMERCE_SQL_PROJECT/blob/main/downloadtaget.png)
 
