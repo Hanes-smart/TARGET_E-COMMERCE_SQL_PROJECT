@@ -319,4 +319,4 @@ group by payment_installments;
 ```
 
 
-## ANALYSIS IN BIGQUERY SANDBOX:[](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1sbusiness-analysis-using-sql!2sus-central1!3sec81facd-5be2-4414-931c-ffc4356f55d3!2e1)
+## ANALYSIS IN BIGQUERY SANDBOX:[ANALYSIS IN BIGQUERY SANDBOX](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1sbusiness-analysis-using-sql!2sus-central1!3sec81facd-5be2-4414-931c-ffc4356f55d3!2e1)
